@@ -1,0 +1,1 @@
+Simple package for getting data from an external source. The package generates map[string]string data from json. toml, yaml data.
